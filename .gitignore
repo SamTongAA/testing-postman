@@ -1,0 +1,8 @@
+# Postman local cache and settings
+.postman/
+
+# Test file
+test
+
+# Uncomment the line below if your environments contain sensitive data
+# postman/environments/
