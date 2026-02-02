@@ -1,0 +1,27 @@
+{
+  "info": {
+    "_postman_id": "9f79ad2b-f335-4616-ba74-4a613af99ae8",
+    "name": "test",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "test 1",
+      "id": "f86f733a-dcb0-4cd6-9f48-e8c55394f53b",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{baseURL}}/test",
+          "host": [
+            "{{baseURL}}"
+          ],
+          "path": [
+            "test"
+          ]
+        }
+      },
+      "response": []
+    }
+  ]
+}
